@@ -6,5 +6,10 @@ def login():
 	return 'login info'
 # 张三的代码
 a = 1
+
 # 经理代码
-b = 3
+c = 3
+
+b = 2
+
+
